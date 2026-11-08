@@ -7,7 +7,7 @@ Machine Learning course project. Each video is classified as an outlier or a nor
 performer based on its views relative to neighbouring videos from the same channel.
 
 ## Where everything lives
-- Data (read-only): [paste link A here]
+- Data (read-only): https://drive.google.com/drive/folders/1yXpX8e-PZZ9WoUfC9JXfFBFgvtzFhpet
 - Working folder (editable): [paste link B here]
 - Code: this repository
 
